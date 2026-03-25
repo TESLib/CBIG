@@ -61,6 +61,7 @@
 !/predict_phenotypes/Ooi2024_ME/**
 !/predict_phenotypes/Zhang2025_L2CFNN/**
 !/predict_phenotypes/TanNguyen2025_BA/**
+!/predict_phenotypes/Xie2025_LBC/**
 
 !/harmonization/*
 !/harmonization/An2024_DeepResBat/**
